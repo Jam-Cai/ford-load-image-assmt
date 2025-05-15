@@ -1,4 +1,4 @@
-package com.example.imageviewer.models
+package com.example.fordloadimageassignment.models
 
 import android.net.Uri
 import android.os.Parcelable

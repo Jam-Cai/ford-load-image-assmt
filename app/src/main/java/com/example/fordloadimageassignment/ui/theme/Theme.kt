@@ -1,6 +1,5 @@
-package com.jamesc.fordloadimageassignment.ui.theme
+package com.example.fordloadimageassignment.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -35,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 
 @Composable
 fun FordLoadImageAssignmentTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
+    darkTheme: Boolean = true,
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
     content: @Composable () -> Unit

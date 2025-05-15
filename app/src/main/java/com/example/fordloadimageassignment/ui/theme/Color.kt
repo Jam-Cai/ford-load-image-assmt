@@ -1,4 +1,4 @@
-package com.jamesc.fordloadimageassignment.ui.theme
+package com.example.fordloadimageassignment.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
